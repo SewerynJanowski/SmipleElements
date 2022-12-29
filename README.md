@@ -12,7 +12,7 @@ To this project I use this elements:
 This project was made to simply test how this elements work and what can be done with them.
 When you ran this program your diplay will show you two functions.
 
-First is servo which simply activetes servo. It is not challenging so I try to add calibration fuction.
+First is servo which simply activetes servo. It is not challenging so I try to add calibration function.
 Calibration work is simple, when activeted it measures time from start to end, and after that you can activate servo, which will work for masure time.
 
 Second is motion wich detects movement in front of motion sensor. Motion is signalized by buzzer and message displayed on LCD display.
