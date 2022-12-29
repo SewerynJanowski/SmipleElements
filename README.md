@@ -1,4 +1,4 @@
-# SmipleElements
+# SimpleElements
 It's a simple project made in Arduino IDE 
 
 To this project I use this elements:
